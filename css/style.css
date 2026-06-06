@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul,ol{
+    list-style: none;
+
+}
+a{
+    text-decoration: none;
+}
+
+body{
+    font-family: "Epilogue", sans-serif;
+}
+
+.container{
+    max-width: 1196px;
+    margin: auto;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.space-between{
+    justify-content: space-between;
+}
+
+header nav{
+    padding: 24px 0;
+}
+header .menu a{
+    color: #2d2d2d;
+    font-size: 17px;
+    line-height: 159%;
+    margin: 0 12px;
+}
