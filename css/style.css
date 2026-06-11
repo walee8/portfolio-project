@@ -42,6 +42,7 @@ header .menu a{
     line-height: 159%;
     margin: 0 12px;
 }
+
 .hero{
     padding: 58px 56px;
 }
@@ -67,4 +68,14 @@ header .menu a{
     color: #fff;
     font-size: 17px;
     line-height: 159%;
+}
+
+.work h2{
+    margin: 42px 0;
+    text-align: center;
+}
+
+.project{
+    width: 33.3%;
+
 }
